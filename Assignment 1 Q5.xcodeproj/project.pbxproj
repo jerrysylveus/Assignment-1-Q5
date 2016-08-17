@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		72B7DE241CB3403700DB6134 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 72B7DE231CB3403700DB6134 /* main.c */; };
+		72B7DE241CB3403700DB6134 /* Q5.c in Sources */ = {isa = PBXBuildFile; fileRef = 72B7DE231CB3403700DB6134 /* Q5.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		72B7DE201CB3403700DB6134 /* Assignment 1 Q5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Assignment 1 Q5"; sourceTree = BUILT_PRODUCTS_DIR; };
-		72B7DE231CB3403700DB6134 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		72B7DE231CB3403700DB6134 /* Q5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Q5.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		72B7DE221CB3403700DB6134 /* Assignment 1 Q5 */ = {
 			isa = PBXGroup;
 			children = (
-				72B7DE231CB3403700DB6134 /* main.c */,
+				72B7DE231CB3403700DB6134 /* Q5.c */,
 			);
 			path = "Assignment 1 Q5";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				72B7DE241CB3403700DB6134 /* main.c in Sources */,
+				72B7DE241CB3403700DB6134 /* Q5.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +239,7 @@
 				72B7DE291CB3403700DB6134 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
